@@ -147,3 +147,10 @@ Based on the current backtests, 2015–2026 and 2020–2026 provide the stronges
 The weaker 2000–2015 results are important too, because they show that V4 does have a regime dependency rather than magically making money in every environment. That actually makes the backtest more informative, not less.
 V4 has also demonstrated an important robustness characteristic: across the semiconductor tickers we tested, the strategy generally avoided the major “landmines” that severely damaged individual buy-and-hold investors.
 (like CSCO, INTC, .... )
+Benchmark Universe
+
+The Buy & Hold (B&H) benchmark consisted of the following 13 tickers:
+
+MU, NVDA, AMD, AMAT, LRCX, KLAC, QCOM, TXN, ADI, INTC, WDC, STX, CSCO
+
+The B&H benchmark represents the performance of holding these stocks throughout the tested period, with the average CAGR calculated across valid tickers.
