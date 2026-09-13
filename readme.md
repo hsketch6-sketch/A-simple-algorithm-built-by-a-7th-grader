@@ -145,3 +145,5 @@ It's designed to answer a much narrower question:
 Based on the current backtests, 2015–2026 and 2020–2026 provide the strongest evidence that the answer may be yes.
 
 The weaker 2000–2015 results are important too, because they show that V4 does have a regime dependency rather than magically making money in every environment. That actually makes the backtest more informative, not less.
+V4 has also demonstrated an important robustness characteristic: across the semiconductor tickers we tested, the strategy generally avoided the major “landmines” that severely damaged individual buy-and-hold investors.
+(like CSCO, INTC, .... )
