@@ -1,4 +1,5 @@
-https://chatgpt.com/s/w_6aa642f9c9188191a7077660ff3333d4
+<img width="778" height="348" alt="image" src="https://github.com/user-attachments/assets/6a6e090d-cb9d-4c5f-b8e4-692ac491363d" />
+
 | Period        |    V4 CAGR | B&H CAGR |      Alpha |         MDD |    Sharpe | Trades | Win Rate | Interpretation                                             |
 | ------------- | ---------: | -------: | ---------: | ----------: | --------: | -----: | -------: | ---------------------------------------------------------- |
 | **2000–2005** |     -4.79% |   -1.62% |     -3.17% |     -57.65% |    -0.089 |      5 |     100% | 🔴 Extremely difficult semiconductor environment           |
